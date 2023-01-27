@@ -1,5 +1,7 @@
 # Welcome to furigana 👋
 
+Used in [ThaddeusJiang/jp_data](https://github.com/ThaddeusJiang/jp_data)
+
 [![Twitter: ThaddeusJiang](https://img.shields.io/twitter/follow/ThaddeusJiang.svg?style=social)](https://twitter.com/ThaddeusJiang)
 
 > 日本語の漢字から「ふりがな」を自動作成
